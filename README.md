@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @andrewBrownConsulting
-- 👀 I’m interested in creating webapps ([https://www.portfolio-august.web.app](https://portfolio-august.firebaseapp.com/))
+- 👋 Hi, I’m Andrew
+- I made a Mathematical Keyboard site (I'll add this url later)
 - I made a movie watch list website (https://moviewatchlist-3831d.web.app)
-- 🌱 I’m currently learning React and Firebase
-- 💞️ I’m looking to collaborate on small web based projects
-- 📫 How to reach me andrew.brown75@yahoo.com
+- 🌱 I’m currently studying the Meta Front-End development course
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a blue belt in kickboxing :)
 
 <!---
 andrewBrownConsulting/andrewBrownConsulting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
