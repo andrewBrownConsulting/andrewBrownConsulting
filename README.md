@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Andrew
 - I made a Mathematical Keyboard site (I'll add this url later)
+- My blog (https://blog.andrewb.site)
 - I made a movie watch list website (https://moviewatchlist-3831d.web.app)
 - 🌱 I’m currently studying the Meta Front-End development course
 - 😄 Pronouns: He/Him
