@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrewbrownconsulting" alt="andrewbrownconsulting" /></a> </p>
 
-- 🔭 I’m currently working on [my blog](https://blog.andrewb.site)
+- 🔭 I’m currently working on [my blog](https://medium.com/@andrewbrownconsult)
 
 - 🌱 I’m currently learning **Cloud Infrastructure**
 
